@@ -1,7 +1,9 @@
 # Microservice example project using Python, RabbitMQ, Nameko and Flask
 
 This a simple microservice sale and stock management system using Python, RabbitMQ, Nameko and Flask.  
-It's just an example, where I demonstrate the use of these technologies.
+It's just an example, where I demonstrate the use of these technologies.  
+  
+Based in [Bruno Rocha tutorial](http://brunorocha.org/python/microservices-with-python-rabbitmq-and-nameko.html]).
 
 ## Build and Run ##
 
